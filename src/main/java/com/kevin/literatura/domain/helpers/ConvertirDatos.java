@@ -1,4 +1,4 @@
-package com.kevin.literatura.helpers;
+package com.kevin.literatura.domain.helpers;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
