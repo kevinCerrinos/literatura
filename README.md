@@ -1,5 +1,5 @@
 # APP LITERATURA
-## Spring Boot, PostgreSQL, JPA, Hibernate Rest API
+## Spring Boot, PostgreSQL, JPA, Hibernate
 
 Build Restful API application using Spring Boot, Postgres, JPA and Hibernate.
 
